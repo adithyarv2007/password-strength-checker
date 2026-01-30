@@ -31,10 +31,10 @@ Technologies Used
 1) Python 3
 2) Standard Library (getpass)
 
-How to run
+How to run:
 checker.py
 
-Example output
+Example output:
 Enter the password: abc
 Weak password
 Your password score is 2/10
