@@ -12,6 +12,7 @@ Features:
 5) Detailed feedback for improving weak passwords
 
 Password Rules:
+
 Each rule satisfied gives 2 points, for a maximum score of 10.
 | Rule              | Description                             |
 | ----------------- | --------------------------------------- |
@@ -31,17 +32,14 @@ Technologies Used
 1) Python 3
 2) Standard Library (getpass)
 
-How to run:
+How to run
+
 checker.py
 
-Example output:
-Enter the password: abc
-Weak password
-Your password score is 2/10
-Password must contain at least 8 characters.
-Password must contain at least one uppercase alphabet.
-Password must contain at least one number.
-Password must contain at least one special character.
+Example output
+
+<img width="416" height="121" alt="image" src="https://github.com/user-attachments/assets/45102fe9-8a78-4729-97cc-ce47ab179616" />
+
 
 LICENSE: MIT
 
