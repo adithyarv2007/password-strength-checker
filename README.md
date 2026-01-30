@@ -43,6 +43,8 @@ Password must contain at least one uppercase alphabet.
 Password must contain at least one number.
 Password must contain at least one special character.
 
+LICENSE: MIT
+
 Notes
 1) This project focuses on password validation, not encryption or storage.
 2) Password masking works in standard terminals and command prompts.
