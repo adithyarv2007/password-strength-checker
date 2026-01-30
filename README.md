@@ -32,7 +32,7 @@ Technologies Used
 2) Standard Library (getpass)
 
 How to run
-password strength checker.py
+checker.py
 
 Example output
 Enter the password: abc
